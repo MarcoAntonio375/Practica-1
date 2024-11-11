@@ -14,3 +14,5 @@
 -
 ¿Qué es el sobrecarga de métodos y el sobreescritura de métodos?
 -
+¿Cómo se maneja el acceso a los atributos y métodos de una clase en POO?
+-
