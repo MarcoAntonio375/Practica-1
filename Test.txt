@@ -8,3 +8,5 @@
 -
 ¿Qué es el polimorfismo y cómo se implementa?
 -
+¿Qué es un constructor y cuál es su propósito?
+-
