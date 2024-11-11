@@ -1,3 +1,6 @@
 ¿Qué es la Programación Orientada a Objetos (POO)?
 -
 ¿Qué es una clase y un objeto en POO?
+-
+¿Qué es la encapsulación y por qué es importante?
+-
