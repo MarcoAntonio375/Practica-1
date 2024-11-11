@@ -4,3 +4,5 @@
 -
 ¿Qué es la encapsulación y por qué es importante?
 -
+¿Qué es la herencia y cómo se utiliza en POO?
+-
