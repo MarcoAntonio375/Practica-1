@@ -10,9 +10,11 @@
 -
 ¿Qué es un constructor y cuál es su propósito?
 -
-¿Qué es una interfaz y cómo difiere de una clase abstracta?
+¿Qué es una interfaz?
 -
-¿Qué es el sobrecarga de métodos y el sobreescritura de métodos?
+¿Qué son los métodos?
 -
-¿Cómo se maneja el acceso a los atributos y métodos de una clase en POO?
+¿Cómo se maneja el acceso a los atributos en una clase en POO?
+-
+¿Qué es la abstracción y cómo se aplica?
 -
